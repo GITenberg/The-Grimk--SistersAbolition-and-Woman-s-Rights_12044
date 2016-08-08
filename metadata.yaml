@@ -1,0 +1,31 @@
+_repo: The-Grimk--SistersAbolition-and-Woman-s-Rights_12044
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Birney, Catherine H.
+    gutenberg_agent_id: '4194'
+    url: http://www.gutenberg.org/2009/agents/4194
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grimké, Sarah Moore, 1792-1873'
+- !lcsh 'Grimké, Angelina Emily, 1805-1879'
+- !lcsh 'Feminists -- South Carolina -- Biography'
+- !lcsh 'Women''s rights -- United States -- History -- 19th century'
+- !lcsh 'Women abolitionists -- South Carolina -- Biography'
+- !lcsh 'Sisters -- South Carolina -- Biography'
+- !lcc 'E300'
+- GITenberg
+title: 'The Grimké Sisters
+
+  Sarah and Angelina Grimké: the First American Women Advocates of
+
+  Abolition and Woman''s Rights'
+url: http://www.gutenberg.org/ebooks/12044
