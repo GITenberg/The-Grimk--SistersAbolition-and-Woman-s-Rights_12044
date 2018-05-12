@@ -1,11 +1,16 @@
 _repo: The-Grimk--SistersAbolition-and-Woman-s-Rights_12044
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Birney, Catherine H.
     gutenberg_agent_id: '4194'
     url: http://www.gutenberg.org/2009/agents/4194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12044#The-Grimk--SistersAbolition-and-Woman-s-Rights
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
